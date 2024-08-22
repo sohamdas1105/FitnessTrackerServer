@@ -1,5 +1,7 @@
 ![Fitness tracker](https://github.com/user-attachments/assets/7c0ba759-057c-4189-b5ae-c39b0e166fbf)
 
+Demo Video: https://youtu.be/2gFfagdUXA8
+
 Welcome to my Full Stack Modern Fitness Tracker Application Project with Spring Boot & Angular series! This project leverages cutting-edge technologies, including Spring Boot 3, Spring Security 6, Angular 16, Ng Zorro UI, and a MySQL database. Let's explore the key features of this fitness tracker appplication
 
 Pages Overview:
